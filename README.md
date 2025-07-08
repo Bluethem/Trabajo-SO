@@ -1,2 +1,2 @@
-# POO-ABP
-Solo para conocedores :D
+# Sistemas Operativos
+Trabajo sistemas operativos
